@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+main {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-div {
+    background-color: #4EA0FF;
+    height: 90px;
+    width: auto;
+    margin: 0px;
+}
+
+.img-booleaner {
+    height: 60px;
+    width: auto;
+    align-items: baseline;
+} 
+
+.img-pattern {
+    height: 130px;
+}
+
+
